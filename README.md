@@ -3,7 +3,7 @@
 <p align="center">
   Full Stack Web Engineer
 </p>
-<p>
+<p align="center">
   Now I'm working with <img src="https://user-images.githubusercontent.com/55194720/131248725-b75fac38-b73f-4706-91c6-76ce799d680d.png" width="32px" height="32px" />
 </p>
 
