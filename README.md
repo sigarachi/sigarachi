@@ -13,6 +13,14 @@
   MongoDB/PostgreSQL
 </p>
 
+<p>
+  Teams: <br />
+    - BadCode: https://github.com/badcodeTeam
+    <br />
+    - FileSharing: https://github.com/file-sharing-erp-team
+    <br />
+</p>
+
 <!---
 sigarachi/sigarachi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
